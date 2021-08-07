@@ -34,8 +34,8 @@ const CONFIG = {
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
   // Use https://www.latlong.net/
-  weatherLatitude: '18.520430',
-  weatherLongitude: '73.856743',
+  weatherLatitude: '18.477818',
+  weatherLongitude: '73.855437',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
