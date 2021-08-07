@@ -30,7 +30,7 @@ const CONFIG = {
 
   // Weather
   // Use openweathermap.org
-  weatherKey: 'api.openweathermap.org/data/2.5/weather?q=Pune&appid=7471d04b95ac20bb458202d3161053f2',
+  weatherKey: '7471d04b95ac20bb458202d3161053f2',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
   // Use https://www.latlong.net/
