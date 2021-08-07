@@ -71,7 +71,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'Reddit',
-      icon: 'Reddit',
+      // icon: 'Reddit',
       link: 'https://reddit.com',
     },
     {
