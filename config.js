@@ -24,18 +24,18 @@ const CONFIG = {
 
   // Greetings
   greetingMorning: 'Good morning,',
-  greetingAfternoon: 'Hello,',
-  greetingEvening: 'Good night,',
+  greetingAfternoon: 'Good afternoon,',
+  greetingEvening: 'Good evening,',
   greetingNight: 'You should go to sleep,',
 
   // Weather
   // Use openweathermap.org
-  weatherKey: 'XXX',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherKey: '7471d04b95ac20bb458202d3161053f2',
+  weatherIcons: 'Nord', // 'OneDark', 'Dark', 'White'
   weatherUnit: 'C',
   // Use https://www.latlong.net/
-  weatherLatitude: 'XXX',
-  weatherLongitude: 'XXX',
+  weatherLatitude: '18.520430',
+  weatherLongitude: '73.856743',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
