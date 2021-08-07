@@ -30,8 +30,8 @@ const CONFIG = {
 
   // Weather
   // Use openweathermap.org
-  weatherKey: 'api.openweathermap.org/data/2.5/weather?q=London&appid=7471d04b95ac20bb458202d3161053f2',
-  weatherIcons: 'Nord', // 'OneDark', 'Dark', 'White'
+  weatherKey: 'api.openweathermap.org/data/2.5/weather?q=Pune&appid=7471d04b95ac20bb458202d3161053f2',
+  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
   // Use https://www.latlong.net/
   weatherLatitude: '18.520430',
