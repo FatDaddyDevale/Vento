@@ -18,7 +18,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'my friend',
+  name: 'ANAY',
   imageBackground: true,
   openInNewTab: true,
 
